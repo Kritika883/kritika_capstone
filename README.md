@@ -4,7 +4,7 @@ Algonquin college CDI North York
 
 A well-planned colour palette, layout, typography, and images are critical components of a successful Pokedex project. The following justifies each factor:
 
-1. Design of Layout
+1.) Design of Layout
 User Experience (UX): Users will find it easier to explore and locate information when the layout is straightforward and well-organised. It facilitates users' intuitive understanding of the application's interface.
 Responsiveness: An adaptable design makes that the program functions properly across a range of screen sizes, satisfying the needs of both desktop and mobile users. Since many users access programs on mobile devices, this inclusivity is essential.
 Graphical Structure: A well-organised design creates a hierarchy of visual elements that direct visitors' attention to key components such as the action buttons, information modal, and Pokémon gallery. Because of this organization's reduction of cognitive strain, consumers2. Utilising Colour Schemes
